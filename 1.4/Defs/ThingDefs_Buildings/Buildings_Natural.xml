@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<ThingDef ParentName="RockBase">
+		<defName>CEL_CelestialOre</defName>
+		<label>celestial ore</label>
+		<description>Rock threaded with a fine vein of celestial dust.</description>
+		<graphicData>
+			<texPath>Things/Building/Linked/RockFlecked_Atlas</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<color>(135, 95, 148)</color>
+			<colorTwo>(89, 80, 92)</colorTwo>
+		</graphicData>
+		<statBases>
+			<MaxHitPoints>6000</MaxHitPoints>
+		</statBases>
+		<building>
+			<isResourceRock>true</isResourceRock>
+			<mineableThing>CEL_CelestialDust</mineableThing>
+			<mineableYield>1</mineableYield>
+			<mineableScatterCommonality>1</mineableScatterCommonality>
+			<mineableScatterLumpSizeRange>1~1</mineableScatterLumpSizeRange>
+		</building>
+	</ThingDef>
+
+</Defs>
