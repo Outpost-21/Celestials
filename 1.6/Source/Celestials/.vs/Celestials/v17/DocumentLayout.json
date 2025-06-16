@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\RWModCategories\\Neronix17\\_SmallMods\\Celestials\\1.6\\Source\\Celestials\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC958E0-44B9-4916-B130-5FC423A83E05}|Celestials.csproj|f:\\rwmodcategories\\neronix17\\_smallmods\\celestials\\1.6\\source\\celestials\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC958E0-44B9-4916-B130-5FC423A83E05}|Celestials.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC958E0-44B9-4916-B130-5FC423A83E05}|Celestials.csproj|F:\\RWModCategories\\Neronix17\\_SmallMods\\Celestials\\1.6\\Source\\Celestials\\utils\\celestialsdebug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC958E0-44B9-4916-B130-5FC423A83E05}|Celestials.csproj|solutionrelative:utils\\celestialsdebug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC958E0-44B9-4916-B130-5FC423A83E05}|Celestials.csproj|f:\\rwmodcategories\\neronix17\\_smallmods\\celestials\\1.6\\source\\celestials\\celestialsmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC958E0-44B9-4916-B130-5FC423A83E05}|Celestials.csproj|solutionrelative:celestialsmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC958E0-44B9-4916-B130-5FC423A83E05}|Celestials.csproj|F:\\RWModCategories\\Neronix17\\_SmallMods\\Celestials\\1.6\\Source\\Celestials\\comps\\hediffcomp_makecelestial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC958E0-44B9-4916-B130-5FC423A83E05}|Celestials.csproj|solutionrelative:comps\\hediffcomp_makecelestial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC958E0-44B9-4916-B130-5FC423A83E05}|Celestials.csproj|F:\\RWModCategories\\Neronix17\\_SmallMods\\Celestials\\1.6\\Source\\Celestials\\comps\\compproperties_celestials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC958E0-44B9-4916-B130-5FC423A83E05}|Celestials.csproj|solutionrelative:comps\\compproperties_celestials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC958E0-44B9-4916-B130-5FC423A83E05}|Celestials.csproj|F:\\RWModCategories\\Neronix17\\_SmallMods\\Celestials\\1.6\\Source\\Celestials\\comps\\comp_celestials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC958E0-44B9-4916-B130-5FC423A83E05}|Celestials.csproj|solutionrelative:comps\\comp_celestials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC958E0-44B9-4916-B130-5FC423A83E05}|Celestials.csproj|F:\\RWModCategories\\Neronix17\\_SmallMods\\Celestials\\1.6\\Source\\Celestials\\comps\\hediffcompproperties_makecelestial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC958E0-44B9-4916-B130-5FC423A83E05}|Celestials.csproj|solutionrelative:comps\\hediffcompproperties_makecelestial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC958E0-44B9-4916-B130-5FC423A83E05}|Celestials.csproj|F:\\RWModCategories\\Neronix17\\_SmallMods\\Celestials\\1.6\\Source\\Celestials\\celestialssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC958E0-44B9-4916-B130-5FC423A83E05}|Celestials.csproj|solutionrelative:celestialssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC958E0-44B9-4916-B130-5FC423A83E05}|Celestials.csproj|F:\\RWModCategories\\Neronix17\\_SmallMods\\Celestials\\1.6\\Source\\Celestials\\celestialsstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC958E0-44B9-4916-B130-5FC423A83E05}|Celestials.csproj|solutionrelative:celestialsstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC958E0-44B9-4916-B130-5FC423A83E05}|Celestials.csproj|F:\\RWModCategories\\Neronix17\\_SmallMods\\Celestials\\1.6\\Source\\Celestials\\celestialsutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC958E0-44B9-4916-B130-5FC423A83E05}|Celestials.csproj|solutionrelative:celestialsutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC958E0-44B9-4916-B130-5FC423A83E05}|Celestials.csproj|F:\\RWModCategories\\Neronix17\\_SmallMods\\Celestials\\1.6\\Source\\Celestials\\utils\\celestialsdefof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC958E0-44B9-4916-B130-5FC423A83E05}|Celestials.csproj|solutionrelative:utils\\celestialsdefof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC958E0-44B9-4916-B130-5FC423A83E05}|Celestials.csproj|F:\\RWModCategories\\Neronix17\\_SmallMods\\Celestials\\1.6\\Source\\Celestials\\harmony\\patch_corpse_shouldvanish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC958E0-44B9-4916-B130-5FC423A83E05}|Celestials.csproj|solutionrelative:harmony\\patch_corpse_shouldvanish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\_SmallMods\\Celestials\\1.6\\Source\\Celestials\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\_SmallMods\\Celestials\\1.6\\Source\\Celestials\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:54:35.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompProperties_Celestials.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\_SmallMods\\Celestials\\1.6\\Source\\Celestials\\Comps\\CompProperties_Celestials.cs",
+              "RelativeDocumentMoniker": "Comps\\CompProperties_Celestials.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\_SmallMods\\Celestials\\1.6\\Source\\Celestials\\Comps\\CompProperties_Celestials.cs",
+              "RelativeToolTip": "Comps\\CompProperties_Celestials.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:52:52.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HediffCompProperties_MakeCelestial.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\_SmallMods\\Celestials\\1.6\\Source\\Celestials\\Comps\\HediffCompProperties_MakeCelestial.cs",
+              "RelativeDocumentMoniker": "Comps\\HediffCompProperties_MakeCelestial.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\_SmallMods\\Celestials\\1.6\\Source\\Celestials\\Comps\\HediffCompProperties_MakeCelestial.cs",
+              "RelativeToolTip": "Comps\\HediffCompProperties_MakeCelestial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:52:52.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HediffComp_MakeCelestial.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\_SmallMods\\Celestials\\1.6\\Source\\Celestials\\Comps\\HediffComp_MakeCelestial.cs",
+              "RelativeDocumentMoniker": "Comps\\HediffComp_MakeCelestial.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\_SmallMods\\Celestials\\1.6\\Source\\Celestials\\Comps\\HediffComp_MakeCelestial.cs",
+              "RelativeToolTip": "Comps\\HediffComp_MakeCelestial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:52:52.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CelestialsDebug.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\_SmallMods\\Celestials\\1.6\\Source\\Celestials\\Utils\\CelestialsDebug.cs",
+              "RelativeDocumentMoniker": "Utils\\CelestialsDebug.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\_SmallMods\\Celestials\\1.6\\Source\\Celestials\\Utils\\CelestialsDebug.cs",
+              "RelativeToolTip": "Utils\\CelestialsDebug.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:52:52.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CelestialsSettings.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\_SmallMods\\Celestials\\1.6\\Source\\Celestials\\CelestialsSettings.cs",
+              "RelativeDocumentMoniker": "CelestialsSettings.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\_SmallMods\\Celestials\\1.6\\Source\\Celestials\\CelestialsSettings.cs",
+              "RelativeToolTip": "CelestialsSettings.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:52:52.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Patch_Corpse_ShouldVanish.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\_SmallMods\\Celestials\\1.6\\Source\\Celestials\\Harmony\\Patch_Corpse_ShouldVanish.cs",
+              "RelativeDocumentMoniker": "Harmony\\Patch_Corpse_ShouldVanish.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\_SmallMods\\Celestials\\1.6\\Source\\Celestials\\Harmony\\Patch_Corpse_ShouldVanish.cs",
+              "RelativeToolTip": "Harmony\\Patch_Corpse_ShouldVanish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:52:52.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CelestialsMod.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\_SmallMods\\Celestials\\1.6\\Source\\Celestials\\CelestialsMod.cs",
+              "RelativeDocumentMoniker": "CelestialsMod.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\_SmallMods\\Celestials\\1.6\\Source\\Celestials\\CelestialsMod.cs",
+              "RelativeToolTip": "CelestialsMod.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAEwGUAAADBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:52:52.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CelestialsDefOf.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\_SmallMods\\Celestials\\1.6\\Source\\Celestials\\Utils\\CelestialsDefOf.cs",
+              "RelativeDocumentMoniker": "Utils\\CelestialsDefOf.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\_SmallMods\\Celestials\\1.6\\Source\\Celestials\\Utils\\CelestialsDefOf.cs",
+              "RelativeToolTip": "Utils\\CelestialsDefOf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:52:52.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CelestialsStartup.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\_SmallMods\\Celestials\\1.6\\Source\\Celestials\\CelestialsStartup.cs",
+              "RelativeDocumentMoniker": "CelestialsStartup.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\_SmallMods\\Celestials\\1.6\\Source\\Celestials\\CelestialsStartup.cs",
+              "RelativeToolTip": "CelestialsStartup.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAMwB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:52:52.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Comp_Celestials.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\_SmallMods\\Celestials\\1.6\\Source\\Celestials\\Comps\\Comp_Celestials.cs",
+              "RelativeDocumentMoniker": "Comps\\Comp_Celestials.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\_SmallMods\\Celestials\\1.6\\Source\\Celestials\\Comps\\Comp_Celestials.cs",
+              "RelativeToolTip": "Comps\\Comp_Celestials.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAIAwwGQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:52:52.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CelestialsUtil.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\_SmallMods\\Celestials\\1.6\\Source\\Celestials\\CelestialsUtil.cs",
+              "RelativeDocumentMoniker": "CelestialsUtil.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\_SmallMods\\Celestials\\1.6\\Source\\Celestials\\CelestialsUtil.cs",
+              "RelativeToolTip": "CelestialsUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:52:52.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
